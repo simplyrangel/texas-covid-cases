@@ -14,3 +14,9 @@ This lesson is split into modules. Each module has a specific purpose. The modul
 - Intro: 10 minutes
 - Modules 1 through 4: 40 minutes
 - Modules 5 and 6: 25 minutes
+
+## Dependencies
+- Python3
+- Pandas
+- Numpy
+- Matplotlib
