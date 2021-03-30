@@ -6,3 +6,6 @@
 
 # os files:
 *.swp
+
+# pdf files:
+*.pdf
